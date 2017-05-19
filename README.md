@@ -2,10 +2,6 @@
 > 해당 과제는 웹상에서 할 일을 관리(추가, 삭제, 완료처리)하는 ToDoList 서비스를 구현하는 것이다. 이 과제에서 사용하는 Todo List는 [TodoMVC App Template](https://github.com/tastejs/todomvc-app-template)을 기반으로 설명되어 있다.
 
 ## TASK
-0. **환경 설정**
-	- `TodoMVC App Template`을 fork한다.
-	- `npm install`한다.
-	- `/js/app.js`에 코드를 작성한다.
 1. **할 일 등록하기**
 	- 할 일을 등록하는 input box가 있고, 커서를 두고 입력한 후 엔터 key를 치면 글이 등록된다.
 	- 빈 문자이면 등록되지 않는다.
@@ -32,8 +28,13 @@
 	- 클릭 시 이미 완료한 일을 리스트에서 삭제한다.
 	- 새로 고침을 해도 같아야 한다.
 
-## 조건
+## 참고
+### github
+ - [fork하여 PR을 보내는 방법](https://www.youtube.com/watch?v=ZSZoaG0PqLg)
+ - [PR보내고 다시 PR보낼때 확인](https://www.youtube.com/watch?v=CbLNbCUsh5c)
+ - [confilct날 때 해결하는 방법](https://www.youtube.com/watch?v=U3RmwYc5eGQ)
 
+## 조건
 ### FE
 - 라이브러리는 jQuery만 사용한다.
 - 파일은 uglify하지 않는다.
