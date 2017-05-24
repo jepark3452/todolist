@@ -38,7 +38,7 @@
 [하단 github 강의](https://github.com/connect-boostcamp/todolist#github)을 참고하여 
 - 해당 저장소를 fork한다.
 - 과제를 수행한 후 Pull Request로 제출한다.
-- 반복된 Pull Request를 보내는건 상관 없으며, `몇일 몇시` 기준으로 보낸 PR을 기준으로 코드를 평가한다.
+- 반복된 Pull Request를 보내는건 상관 없으며, **`2017년 6월 6일 24시`** 기준으로 보낸 PR을 기준으로 코드를 평가한다.
 
 
 ## 조건
