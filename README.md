@@ -35,10 +35,11 @@
 	- 새로 고침을 해도 같아야 한다.
 
 ## 과제 제출
-[하단 github 강의](https://github.com/connect-boostcamp/todolist#github)을 참고하여 
-- 해당 저장소를 fork한다.
-- 과제를 수행한 후 Pull Request로 제출한다.
+- 지원서 항목 중 4.직무질문 중 Git을 쓰는 항목에는 본인의 GitID만 적고 지원서는 제출하면 된다. 그 후 다음과 같이 git작업을 한다.
+- 해당 저장소를 fork하고,  
+- 과제를 수행한 후 Pull Request로 제출한다.  pull reuqest 제목은  "(지원자명) todolist 과제"로 한다. 
 - 반복된 Pull Request를 보내는건 상관 없으며, **`2017년 6월 6일 24시`** 기준으로 보낸 PR을 기준으로 코드를 평가한다.
+- 위 fork 및 Pull Request는 [하단 github 강의](https://github.com/connect-boostcamp/todolist#github)을 참고한다. 
 
 
 ## 조건
